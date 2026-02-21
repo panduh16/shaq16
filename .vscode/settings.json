@@ -1,0 +1,30 @@
+{
+  "robloxLsp.diagnostics.globals": [
+    "writefile",
+    "isfolder",
+    "makefolder",
+    "isfile",
+    "readfile",
+    "setclipboard",
+    "fireproximityprompt",
+    "firesignal",
+    "getconnections",
+    "identifyexecutor",
+    "syn",
+    "http",
+    "request",
+    "http_request",
+    "checkcaller",
+    "clonefunction",
+    "getfunctionhash",
+    "hookfunction",
+    "hookmetamethod",
+    "iscclosure",
+    "isexecutorclosure",
+    "islclosure",
+    "newcclosure",
+    "restorefunction",
+    "getgenv",
+    "cloneref"
+  ]
+}

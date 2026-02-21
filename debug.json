@@ -1,0 +1,12 @@
+{
+  "bundle": {
+    "modules_identifier": "__DIST",
+    "require_mode": {
+      "name": "path",
+      "use_luau_configuration": true
+    },
+    "excludes": [
+      "@lune"
+    ]
+  }
+}

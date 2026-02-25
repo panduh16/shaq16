@@ -1,0 +1,1 @@
+im not really proud of this project, i couldve done a million things better but it was kinda rushed since i was stressed with releasing it quick to get it out to thousands of members
